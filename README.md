@@ -13,3 +13,6 @@ The dataset contains 2 folders
 This Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 
 Development of a Convolutional Neural Network to classify cells images as infected (parasitized) or uninfected. Results in test set: 97% accuracy.
+
+## [Training Notebook](https://github.com/rafaelpavan95/Malaria_Computer_Vision/blob/master/train_notebook.ipynb)
+## [Test (Results) Notebook](https://github.com/rafaelpavan95/Malaria_Computer_Vision/blob/master/test_notebook.ipynb)
