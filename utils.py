@@ -107,4 +107,4 @@ def plot_roc(fpr,tpr, label_=None):
     plt.legend()
     plt.xlabel('FPR')
     plt.ylabel('TPR')
-    plt.title('Precision-Recall Curve')
+    plt.title('ROC Curve')
